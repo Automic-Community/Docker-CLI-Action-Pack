@@ -2,7 +2,7 @@
 =============
 
 
-Docker CLI Action Pack
+Easy Management of Docker containers and images
 http://github.com/Automic-Community/Docker-CLI-Action-Pack
 
 <!-- List of attached files -->
